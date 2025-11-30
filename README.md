@@ -6,7 +6,7 @@ RESTful API for retrieving FDA drug information and safety alerts.
 
 This API helps users access medication information from the FDA's OpenFDA database, including drug labels, warnings, side effects, and recall alerts.
 
-**My Role:** I built the entire backend as part of a healthcare web application developed with teammates. This repo contains only my backend work - the API architecture, FDA integration, and data processing logic.
+**My Role:** I built the backend as part of a healthcare web application developed with teammates. This repo contains only my backend work - the API architecture, FDA integration, and data processing logic.
 
 ## Tech Stack
 
